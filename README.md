@@ -10,4 +10,4 @@ Instructions: Using Kernel 3.11.14, run each task, ensuring the .csv data files 
 This code was produced using the kernel mentioned above in VSCode.
 
 
-AI Statement: Chatgpt was used to help produce the plots in Task 1: Temporal Dispatch, which was then applied to the remaining plots and modified as needed by ourselves.
+AI Statement: Chatgpt was used to help produce the plots in Task 1: Temporal Dispatch, which was then applied to the remaining plots and modified as needed by ourselves. 
