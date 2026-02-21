@@ -1,0 +1,7 @@
+Requirements:
+
+Kernel: Python 3.11.14
+
+Environment: Anaconda3
+
+All required libraries are imported in each code file.
